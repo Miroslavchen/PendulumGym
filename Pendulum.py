@@ -6,7 +6,7 @@ from deap import base, algorithms
 from deap import creator
 from deap import tools
 
-from neuralnetworkspace import NNetwork
+from neuralnetworkpendulum import NNetwork
 
 import random
 import matplotlib.pyplot as plt
